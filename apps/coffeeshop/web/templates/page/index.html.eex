@@ -1,0 +1,7 @@
+<div class="jumbotron">
+  <h2><%= gettext "Welcome to %{name}", name: "coffeeshop!" %></h2>
+  <p class="lead">WOOOO</p>
+</div>
+
+<div id="messages"></div>
+<input id="chat-input" type="text"></input>
